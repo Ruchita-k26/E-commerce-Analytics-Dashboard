@@ -77,3 +77,9 @@ This Power BI dashboard analyzes the Olist Brazilian E-Commerce dataset and prov
 - KPI Development
 - Interactive Dashboard Design
 - Business Intelligence & Storytelling
+
+#### 📊 Power BI Dashboard File
+
+The Power BI (.pbix) file can be downloaded here:
+
+🔗 [Download PBIX File](https://drive.google.com/file/d/1rQKM6y6YBrQI8CZ9FY3vkD32d3E48ZyJ/view?usp=drive_link)
